@@ -12,6 +12,8 @@ Graphyti develops tools for generating structured 3D worlds and turning them int
 
 ---
 
+▶️ [May 2026 Updates](https://youtu.be/mM_1_zFeLME) 
+
 ## Demo Video
 ▶️ **Watch the full demo:** [Graphyti Demo – March 2026](https://youtu.be/JAhphnwPNBY)
 
