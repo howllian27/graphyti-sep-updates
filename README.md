@@ -1,7 +1,7 @@
-# Graphyti – March 2026 Demo
+# Graphyti – May 2026 Demo
 
 ## Overview
-This repository hosts the materials and updates for the **March 2026 video demo** of **Graphyti**, our startup project focused on developing immersive 3D synthetic data for visual AI models.
+This repository hosts the materials and updates for the **May 2026** of **Graphyti**, our startup project focused on developing immersive 3D synthetic data for visual AI models.
 
 Graphyti is a platform that allows teams to create 3D datasets faster, cheaper, and more easily. Our goal is to help companies build high-quality proprietary data for robotics, simulation, smart-city systems, and other spatially aware AI applications.
 
