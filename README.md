@@ -1,4 +1,4 @@
-# Graphyti – May 2026 Demo
+# Graphyti – July 2026 Demo
 
 ## Overview
 This repository hosts the materials and updates for **May 2026** of **Graphyti**, our startup project focused on developing immersive 3D synthetic data for visual AI models.
