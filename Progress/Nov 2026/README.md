@@ -1,6 +1,6 @@
 # Graphyti: Progress Update Demo
 
-▶️ **Watch:** [https://www.youtube.com/watch?v=1riq26VTZd8](https://www.youtube.com/watch?v=1riq26VTZd8)
+▶️ **Watch:** [https://youtu.be/zu5ixjfP5lU](https://youtu.be/zu5ixjfP5lU)
 
 NEW WEBSITE AVAILABLE: https://graphyti.app
 
